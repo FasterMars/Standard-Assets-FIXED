@@ -1,4 +1,11 @@
 # Standard-Assets-FIXED
+
+![GitHub last commit](https://img.shields.io/github/last-commit/FasterMars/Standard-Assets-FIXED?style=plastic)
+![img](https://img.shields.io/github/issues/FasterMars/Standard-Assets-FIXED?style=plastic)
+![img](https://img.shields.io/github/forks/FasterMars/Standard-Assets-FIXED?style=plastic)
+![img](https://img.shields.io/github/stars/FasterMars/Standard-Assets-FIXED?style=plastic)
+[![Twitter](https://img.shields.io/twitter/url?color=FasterMars&label=FasterMars&style=social&url=https%3A%2F%2Ftwitter.com%2Ffastermars)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FFasterMars%2FStandard-Assets-FIXED)
+
 Unity used to have a package called [Standard assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351) and it was very useful to Indie game developers or small teams that were not willing to spend hours working on the most basic things. These are collections of assets that are widely used by most Unity customers. These are: 2D, Cameras, Characters, CrossPlatformInput, Effects, Environment, ParticleSystems, Prototyping, Utility, Vehicles.
 
 Unfortunately this pack was discontinued after the release of Unity 2020, this repository hosts the Standard Assets which have been tweaked to work with versions higher than 2018.4
