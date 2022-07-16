@@ -12,6 +12,12 @@ Unfortunately this pack was discontinued after the release of Unity 2020, this r
 
 All the assets and Images contained in the source code of this repository are owned by (C) Unity Technologies, this is a modified version of the Unity Standard Assets to work with Unity further, I am in no way affiliated with Unity Technologies Inc. 
 
+## Installation
+
+- Step 1. Download the latest release from releases tab
+- Step 2. Extract the zip file
+- Step 3. Copy extracted folder to assets directory of project. 
+
 ## Preview of the Standard Assets Pack:
 ![51afc84d-62ab-4321-904d-afccdffe846b](https://user-images.githubusercontent.com/91949513/179227046-4ed48d2e-4a7c-4e6d-9294-611bc98b24c1.jpg)
 ![c5b40053-1570-4ea9-b7a3-4f66851df5a7](https://user-images.githubusercontent.com/91949513/179227920-e69793c9-edef-44d6-81cf-947f9a92fb6f.jpg)
